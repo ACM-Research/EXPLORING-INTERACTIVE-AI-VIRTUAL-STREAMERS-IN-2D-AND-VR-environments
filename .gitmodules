@@ -1,9 +1,0 @@
-[submodule "submodules/AI-Virtual_Streamer"]
-	path = submodules/AI-Virtual_Streamer
-	url = https://github.com/SowreshMS/AI-Virtual_Streamer.git
-[submodule "submodules/DinoGame"]
-	path = submodules/DinoGame
-	url = https://github.com/FireboltLegend/DinoGame.git
-[submodule "submodules/Virtual-Streamer"]
-	path = submodules/Virtual-Streamer
-	url = https://github.com/SowreshMS/Virtual-Streamer.git
